@@ -64,11 +64,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -79,7 +76,7 @@
 
 Add watermark to your image with just a few clicks.
 
-[![Demo Video][product-screenshot]](images/watermarking-app-demo%20(1).mov)
+[![Demo Video][product-screenshot]](https://github.com/user-attachments/assets/f3d4b963-b989-4cdd-8939-cf892538dd3b)
 
 Options:
 * Any text
