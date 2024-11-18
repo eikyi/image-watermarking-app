@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/eikyi/image-watermarking-app">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.PNG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Python-Image-Watermarking-App</h3>
